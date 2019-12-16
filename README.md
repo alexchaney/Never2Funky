@@ -1,2 +1,2 @@
 # Never2Funky
-original Never2Funky PHP and MySql stuff
+Global Citizen's Art, Culture, and Freestyle Guide
